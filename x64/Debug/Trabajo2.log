@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(55,23): warning C4473: "fprintf": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(55,23): message : los marcadores de posición y sus parámetros esperan 7 argumentos variádicos, pero se proporcionaron 6
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(55,23): message : el argumento variádico 7 que falta es requerido por la cadena de formato '%d'
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(210,59): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(300,38): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(301,38): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(302,42): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\main.c(303,42): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Trabajo2.vcxproj -> C:\Users\crist\OneDrive\Documentos\GitHub\sc-2320-evalunidad2-Cristian171\x64\Debug\Trabajo2.exe
